@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1",
+    "title": "Oslo",
+    "imgSrc": "https://res.cloudinary.com/simpleview/image/upload/v1634555140/clients/norway/Oslo_operahus_2_447c01a6-7d1c-4cd6-a87a-0c38e552a893.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Bergen",
+    "imgSrc": "https://res.cloudinary.com/simpleview/image/upload/v1634555140/clients/norway/Oslo_operahus_2_447c01a6-7d1c-4cd6-a87a-0c38e552a893.jpg"
+  },
+  {
+    "id": "3",
+    "title": "Tokyo",
+    "imgSrc": "https://res.cloudinary.com/simpleview/image/upload/v1634555140/clients/norway/Oslo_operahus_2_447c01a6-7d1c-4cd6-a87a-0c38e552a893.jpg"
+  },
+  {
+    "id": "4",
+    "title": "Sverige",
+    "imgSrc": "https://res.cloudinary.com/simpleview/image/upload/v1634555140/clients/norway/Oslo_operahus_2_447c01a6-7d1c-4cd6-a87a-0c38e552a893.jpg"
+  },
+  {
+    "id": "5",
+    "title": "Nord-Norge",
+    "imgSrc": "https://res.cloudinary.com/simpleview/image/upload/v1634555140/clients/norway/Oslo_operahus_2_447c01a6-7d1c-4cd6-a87a-0c38e552a893.jpg"
+  }
+]
